@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Piemonte - Torino"
+  },
+  {
+    "name": "Piemonte - Alessandria"
+  },
+  {
+    "name": "Piemonte - Asti"
+  },
+  {
+    "name": "Piemonte - Biella"
+  },
+  {
+    "name": "Piemonte - Cuneo"
+  },
+  {
+    "name": "Piemonte - Novara"
+  },
+  {
+    "name": "Piemonte - Verbania"
+  },
+  {
+    "name": "Piemonte - Vercelli"
+  },
+  {
+    "name": "Valle dAosta - Aosta"
+  },
+  {
+    "name": "Lombardia - Milano"
+  },
+  {
+    "name": "Lombardia - Bergamo"
+  },
+  {
+    "name": "Lombardia - Brescia"
+  },
+  {
+    "name": "Lombardia - Como"
+  },
+  {
+    "name": "Lombardia - Cremona"
+  },
+  {
+    "name": "Lombardia - Lecco"
+  },
+  {
+    "name": "Lombardia - Lodi"
+  },
+  {
+    "name": "Lombardia - Mantova"
+  },
+  {
+    "name": "Lombardia - Pavia"
+  },
+  {
+    "name": "Lombardia - Sondrio"
+  },
+  {
+    "name": "Lombardia - Varese"
+  },
+  {
+    "name": "Trentino Alto Adige - Trento"
+  },
+  {
+    "name": "Trentino Alto Adige - Bolzano"
+  },
+  {
+    "name": "Veneto - Venezia"
+  },
+  {
+    "name": "Veneto - Belluno"
+  },
+  {
+    "name": "Veneto - Padova"
+  },
+  {
+    "name": "Veneto - Rovigo"
+  },
+  {
+    "name": "Veneto - Treviso"
+  },
+  {
+    "name": "Veneto - Verona"
+  },
+  {
+    "name": "Veneto - Vicenza"
+  },
+  {
+    "name": "Friuli Venezia Giulia - Trieste"
+  },
+  {
+    "name": "Friuli Venezia Giulia - Gorizia"
+  },
+  {
+    "name": "Friuli Venezia Giulia - Pordenone"
+  },
+  {
+    "name": "Friuli Venezia Giulia - Udine"
+  },
+  {
+    "name": "Liguria - Genova"
+  },
+  {
+    "name": "Liguria - Imperia"
+  },
+  {
+    "name": "Liguria - La Spezia"
+  },
+  {
+    "name": "Liguria - Savona"
+  },
+  {
+    "name": "Emilia Romagna - Bologna"
+  },
+  {
+    "name": "Emilia Romagna - Ferrara"
+  },
+  {
+    "name": "Emilia Romagna - Forlì-Cesena"
+  },
+  {
+    "name": "Emilia Romagna - Modena"
+  },
+  {
+    "name": "Emilia Romagna - Parma"
+  },
+  {
+    "name": "Emilia Romagna - Piacenza"
+  },
+  {
+    "name": "Emilia Romagna - Ravenna"
+  },
+  {
+    "name": "Emilia Romagna - Reggio Emilia"
+  },
+  {
+    "name": "Emilia Romagna - Rimini"
+  },
+  {
+    "name": "Toscana - Firenze"
+  },
+  {
+    "name": "Toscana - Arezzo"
+  },
+  {
+    "name": "Toscana - Grosseto"
+  },
+  {
+    "name": "Toscana - Livorno"
+  },
+  {
+    "name": "Toscana - Lucca"
+  },
+  {
+    "name": "Toscana - Massa Carrara"
+  },
+  {
+    "name": "Toscana - Pisa"
+  },
+  {
+    "name": "Toscana - Pistoia"
+  },
+  {
+    "name": "Toscana - Prato"
+  },
+  {
+    "name": "Toscana - Siena"
+  },
+  {
+    "name": "Umbria - Perugia"
+  },
+  {
+    "name": "Umbria - Terni"
+  },
+  {
+    "name": "Marche - Ancona"
+  },
+  {
+    "name": "Marche - Ascoli Piceno"
+  },
+  {
+    "name": "Marche - Macerata"
+  },
+  {
+    "name": "Marche - Pesaro - Urbino"
+  },
+  {
+    "name": "Lazio - Roma"
+  },
+  {
+    "name": "Lazio - Frosinone"
+  },
+  {
+    "name": "Lazio - Latina"
+  },
+  {
+    "name": "Lazio - Rieti"
+  },
+  {
+    "name": "Lazio - Viterbo"
+  },
+  {
+    "name": "Abruzzo - LAquila"
+  },
+  {
+    "name": "Abruzzo - Chieti"
+  },
+  {
+    "name": "Abruzzo - Pescara"
+  },
+  {
+    "name": "Abruzzo - Teramo"
+  },
+  {
+    "name": "Molise - Campobasso"
+  },
+  {
+    "name": "Molise - Isernia"
+  },
+  {
+    "name": "Campania - Napoli"
+  },
+  {
+    "name": "Campania - Avellino"
+  },
+  {
+    "name": "Campania - Benevento"
+  },
+  {
+    "name": "Campania - Caserta"
+  },
+  {
+    "name": "Campania - Salerno"
+  },
+  {
+    "name": "Puglia - Bari"
+  },
+  {
+    "name": "Puglia - Brindisi"
+  },
+  {
+    "name": "Puglia - Foggia"
+  },
+  {
+    "name": "Puglia - Lecce"
+  },
+  {
+    "name": "Puglia - Taranto"
+  },
+  {
+    "name": "Basilicata - Potenza"
+  },
+  {
+    "name": "Basilicata - Matera"
+  },
+  {
+    "name": "Calabria - Catanzaro"
+  },
+  {
+    "name": "Calabria - Cosenza"
+  },
+  {
+    "name": "Calabria - Crotone"
+  },
+  {
+    "name": "Calabria - Reggio Calabria"
+  },
+  {
+    "name": "Calabria - Vibo Valentia"
+  },
+  {
+    "name": "Sicilia - Palermo"
+  },
+  {
+    "name": "Sicilia - Agrigento"
+  },
+  {
+    "name": "Sicilia - Caltanissetta"
+  },
+  {
+    "name": "Sicilia - Catania"
+  },
+  {
+    "name": "Sicilia - Enna"
+  },
+  {
+    "name": "Sicilia - Messina"
+  },
+  {
+    "name": "Sicilia - Ragusa"
+  },
+  {
+    "name": "Sicilia - Siracusa"
+  },
+  {
+    "name": "Sicilia - Trapani"
+  },
+  {
+    "name": "Sardegna - Cagliari"
+  },
+  {
+    "name": "Sardegna - Nuoro"
+  },
+  {
+    "name": "Sardegna - Oristano"
+  },
+  {
+    "name": "Sardegna - Sassari"
+  }
+]
